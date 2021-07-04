@@ -1,0 +1,11 @@
+@import './core/core';
+@import './reset/reset';
+@import './typoghraphy/typography';
+
+body {
+  color: $color_white;
+}
+
+* {
+  box-sizing: border-box;
+}

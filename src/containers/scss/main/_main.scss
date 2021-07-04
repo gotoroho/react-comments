@@ -1,0 +1,8 @@
+@import './comments/comments';
+@import './create-comment/create-comment';
+
+.comments-app {
+  background-color: $color_black;
+  min-height: 100vh;
+  padding: 20px;
+}

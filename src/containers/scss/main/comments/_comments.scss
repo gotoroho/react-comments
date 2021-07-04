@@ -1,0 +1,10 @@
+@import './comment/comment';
+
+.comments {
+  display: flex;
+  flex-direction: column;
+
+  &__item {
+    margin-bottom: 20px;
+  }
+}
